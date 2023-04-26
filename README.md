@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 
-![Davinci the Persnickety Pup](/persnickety-pups-frontend/public/apple-touch-icon.png?raw=true "Davinci")
+![Davinci the Persnickety Pup](public/apple-touch-icon.png?raw=true "Davinci")
 
 # Persnickety Pups E-commerce
 
