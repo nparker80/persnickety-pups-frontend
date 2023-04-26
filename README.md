@@ -9,10 +9,10 @@
 * [Available Scripts](#available-scripts)
 * [Built With](#built-with)
 * [Project Link](#project-link)
+* [Project Wins & Challenges](#wins-challenges)
 * [License](#license)
 * [Credits](#credits)
 * [Questions](#questions)
-* [Find Us](#find-us)
 
 ## Description:
 This is retail therapy for the persnickety pups of the world! This project started after I made a large donation of dog toys and clothes to my local Goodwill. I had always looked to other dog parents for ideas as to what my Miniature Schnauzer Davinci might enjoy...and it never quite worked out. Davinci is what I affectionately call a diva dog and the items on this e-commerce site are a few of his favorite things!
@@ -74,6 +74,17 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 [Deployed Application](https://persnickety-pups.onrender.com)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Project Wins & Challenges
+* Created my first solo full stack application
+* Worked with Redux slices, reducers, constants, and actions
+* Spent additional time in React and strengthened my understanding of concepts
+
+* Redux concepts were challenging and there is room for improvement in this area
+* Created the actions but understanding how it all needed to connect was grueling at times
+* Watched several tutorials on Stripe checkout to get things up and running
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## License 
 This project is licensed under MIT
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -83,7 +94,6 @@ This project is licensed under MIT
 List of Contributors:
 
 1. Najla Parker
-2. Johan Andersson
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Questions
