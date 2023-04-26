@@ -2,6 +2,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 
+![Davinci the Persnickety Pup](/repository/public/apple-touch-icon.png?raw=true "Employee Data title")
+
 # Persnickety Pups E-commerce
 
 ## Table of Contents
